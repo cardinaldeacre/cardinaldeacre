@@ -5,9 +5,11 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=cardinaldeacre&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cardinaldeacre&theme=dracula&column=7" alt="GitHub Trophy" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cardinaldeacre/cardinaldeacre/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cardinaldeacre/cardinaldeacre/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/cardinaldeacre/cardinaldeacre/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
