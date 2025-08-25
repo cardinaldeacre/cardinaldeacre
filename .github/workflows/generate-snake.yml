@@ -1,4 +1,6 @@
-name: Generate GitHub Snake Animationon:
+name: Generate GitHub Snake Animation
+
+on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -8,7 +10,7 @@ name: Generate GitHub Snake Animationon:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest 
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
@@ -18,7 +20,6 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
