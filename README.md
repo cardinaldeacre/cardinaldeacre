@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[SIAKAD](https://neosiakad.unida.gontor.ac.id/site/login)**, an academic information system.
+- 🔭 I’m currently working on **[KKP-ASTA](https://maaull.my.id)**, a budgeting information system.
 
 - 🌱 I’m currently sharpening my skills in **Cloud Computing & DevOps** through the **Asah Program, led by Dicoding**.
 
