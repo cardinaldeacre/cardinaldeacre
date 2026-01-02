@@ -37,19 +37,11 @@
 </p> -->
 
 ### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=git,,laravel,next,,nodejs,expressjs,,javascript,react,tailwind,,python,cpp,,docker,postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=git,,laravel,next,,nodejs,expressjs,go,,javascript,react,tailwind,,kotlin,,python,cpp,,docker,postgresql,mysql" />
 
 ---
 ### 📊 GitHub Stats:
 <table align="center">
-  <tr >
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cardinaldeacre&theme=dracula" width="100%"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cardinaldeacre&theme=dracula&layout=compact&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
   <tr>
     <td colspan="3" align="center">
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cardinaldeacre&theme=dracula" width="27%"/>
