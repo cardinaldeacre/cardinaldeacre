@@ -37,14 +37,14 @@
 </p> -->
 
 ### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=git,,laravel,next,,nodejs,expressjs,go,,javascript,react,tailwind,,kotlin,,python,cpp,,docker,postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=git,,laravel,next,flutter,,nodejs,expressjs,go,,javascript,react,tailwind,,kotlin,dart,,python,cpp,,docker,postgresql,mysql" />
 
 ---
 ### 📊 GitHub Stats:
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cardinaldeacre&theme=dracula" width="27%"/>
+      <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cardinaldeacre&theme=dracula" width="27%"/> -->
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cardinaldeacre&theme=dracula" width="27%"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=cardinaldeacre&theme=dracula&hide_border=false" alt="GitHub Streak" width="40%"/>
     </td>
