@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[KKP-ASTA](https://maaull.my.id)**, a budgeting information system.
+- 🔭 I’m currently working on **[Waristmate]([https://maaull.my.id](https://github.com/cardinaldeacre/Waristmate-Flutter))**, an Islamic inheritance calculator app that helps users accurately distribute inheritance based on Faraidh principles through a simple, fast, and user-friendly experience.
 
 - 🌱 I’m currently sharpening my skills in **Cloud Computing & DevOps** through the **Asah Program, led by Dicoding**.
 
