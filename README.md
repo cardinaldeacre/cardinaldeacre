@@ -1,54 +1,155 @@
-<h1 align="center">Hi 👋, I'm Iqbal Maulana</h1>
-<h3 align="center">A passionate world explorer with a zest for coding, especially in web programming.</h3>
-
 <div align="center">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=cardinaldeacre&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cardinaldeacre/cardinaldeacre/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cardinaldeacre/cardinaldeacre/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/cardinaldeacre/cardinaldeacre/output/github-snake.svg" />
-  </picture>
+
+# Hi there, I'm Iqbal Maulana 👋
+
+### Software Developer • Mobile & Web Enthusiast • Lifelong Explorer
+
+I enjoy turning ideas into useful applications, exploring new technologies,  
+and occasionally wondering why something works after hours of debugging. ☕💻
+
+<img src="https://komarev.com/ghpvc/?username=cardinaldeacre&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<br/><br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/cardinaldeacre/cardinaldeacre/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/cardinaldeacre/cardinaldeacre/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/cardinaldeacre/cardinaldeacre/output/github-snake.svg"
+  />
+</picture>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Waristmate](https://github.com/cardinaldeacre/Waristmate-Flutter)**, an Islamic inheritance calculator app that helps users accurately distribute inheritance based on Faraidh principles through a simple, fast, and user-friendly experience.
+- 💻 Software developer interested in **Web, Mobile, Backend, and Software Engineering**
+- 🚀 Currently building and improving **WaristMate**
+- 🧠 Always exploring new technologies and experimenting with new ideas
+- 🐧 Linux enjoyer who occasionally spends more time configuring the system than actually using it
+- 🌱 Currently expanding my knowledge in **Full-Stack Development, System Design, and DevOps**
+- 📫 Reach me at **cardinaldeacre@gmail.com**
 
-- 🌱 I’m currently sharpening my skills in **Cloud Computing & DevOps** through the **Asah Program, led by Dicoding**.
+---
 
-- 📫 Feel free to reach me via email at **cardinaldeacre@gmail.com**.
+## 🚀 Featured Project
+
+### 🕌 [WaristMate](https://play.google.com/store/apps/details?id=id.waristmate.app)
+
+An Android application designed to simplify **Islamic inheritance (Faraidh) calculations** through a structured, accurate, and user-friendly experience.
+
+**Key features:**
+
+- 🧮 Islamic inheritance calculation
+- 📜 Calculation history management
+- 💰 Asset and obligation records
+- 📚 Faraidh learning modules
+- ⚡ Fast and intuitive mobile experience
+
+Built with **Flutter**, **Dart**, and **Supabase**.
 
 ---
 
-<!-- <p>
-  <a href="www.linkedin.com/in/iqbal-maulana-dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kaggle.com/cardinalacre" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" alt="Kaggle" />
-  </a>
-  <a href="https://instagram.com/ionic_mass" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
-  </a>
-</p> -->
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=git,,laravel,next,flutter,,nodejs,expressjs,go,,javascript,react,tailwind,,kotlin,dart,,python,cpp,,docker,postgresql,mysql" />
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,dart,go,python,kotlin,cpp" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,bun,express,laravel" />
+</p>
+
+### Database & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ---
-### 📊 GitHub Stats:
-<table align="center">
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<table>
   <tr>
-    <td colspan="3" align="center">
-      <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cardinaldeacre&theme=dracula" width="27%"/> -->
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cardinaldeacre&theme=dracula" width="27%"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=cardinaldeacre&theme=dracula&hide_border=false" alt="GitHub Streak" width="40%"/>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cardinaldeacre&theme=dracula"
+        width="100%"
+        alt="Top Languages"
+      />
+      </td>
+      <td>
+        <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cardinaldeacre&theme=dracula"
+        width="100%"
+        alt="GitHub Stats"
+      />
     </td>
   </tr>
 </table>
 
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cardinaldeacre&theme=dracula"
+  width="90%"
+  alt="GitHub Profile Details"
+/>
+
+</div>
+
 ---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/iqbal-maulana-dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn" />
+  </a> 
+  
+  <a href="mailto:cardinaldeacre@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email" />
+  </a> 
+  
+  <a href="https://github.com/cardinaldeacre" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" height="42" alt="GitHub" />
+  </a>
+</div>   
+
+---
+
+<div align="center">
+
+### ✨ Build. Learn. Break things. Fix them. Repeat.
+
+<sub>Thanks for stopping by 👋</sub>
+
+</div>
