@@ -64,7 +64,7 @@ Built with **Flutter**, **Dart**, and **Supabase**.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=javascript,dart,go,python,kotlin,cpp" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,php,dart,go,python,kotlin,cpp" />
 </p>
 
 ### Frontend & Mobile
@@ -82,13 +82,13 @@ Built with **Flutter**, **Dart**, and **Supabase**.
 ### Database & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,supabase" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,latex" />
 </p>
 
 ---
